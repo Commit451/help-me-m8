@@ -35,9 +35,10 @@ The RG351V with m8c is currently found [here](https://github.com/jasonporritt/rg
 The experience with using this is of course not perfect. Here are some tips to avoid a bad experience:
 - The speaker on the 351V is not great. Headhpones are highly recommended.
 - Turn off Wifi after initial setup (ie. when using the M8 tracker). It is known to cause sound issues.
-- Do NOT turn off the screen (press the power button) on the device without first saving your project. I have experienced putting the device to sleep, then waking it up to find that the progress on my project was gone and only an older save of it existed.
+- Do NOT turn off the screen (press the power button) on the device without first saving your project. I have experienced putting the device to sleep, then waking it up to find that the progress on my project was gone and another project was open and nothing I had been doing was saved.
 - Always SAVE your project before turning off the device. Really, just get into the habit of saving every few minutes on this thing.
 - Backup your projects off the Teensy SD card and onto your computer. You never know when an SD card is going to fail.
+- You cannot see the battery percentage while using M8 unfortunately, but the light in the middle will start blinking red and green when the battery gets low. So, be sure to save when this starts happening too!
 
 ## Acknowledgements
 This entire project/experience would not be possible without the great work from Dirtywave and all the help I found in the [Discord](https://discord.gg/WEavjFNYHh). Thanks to christianhaitian for the creation of ArkOS, jasonporritt for creating rg351_m8c and also laamaa for the work on m8c. We all stand on the shoulders of giants.
