@@ -1,7 +1,7 @@
 # help-me-m8
 Help for the Dirtywave M8 setup and troubleshooting on RG351V.
 
-If you want to save some time, you can buy one instead on [Reverb](https://rvrb.io/2024-rg351v-dirtyw-487sai) or [Etsy](https://www.etsy.com/listing/1637621544/tracker-for-dirtywave-m8-headless-and)
+If you want to save some time, you can buy one instead on [Etsy](https://www.etsy.com/listing/1637621544/tracker-for-dirtywave-m8-headless-and)
 
 ## Guide
 The official guide to the Dirtywave M8 can be found here on their site:
