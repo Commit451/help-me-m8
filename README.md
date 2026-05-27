@@ -1,6 +1,10 @@
 # help-me-m8
 Help for the Dirtywave M8 setup and troubleshooting on RG351V.
 
+| Front | Back |
+| --- | --- |
+| ![Front](images/front.jpg) | ![Back](images/back.jpg) |
+
 ## Guide
 The official guide to the Dirtywave M8 can be found here on their site:
 https://dirtywave.com/pages/resources-downloads
